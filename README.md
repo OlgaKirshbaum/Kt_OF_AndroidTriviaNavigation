@@ -25,3 +25,8 @@
 ------------------------------
 
 ### Изображение приложения:
+
+![Screenshot_1622601842](https://user-images.githubusercontent.com/77355204/120418676-a3adf080-c369-11eb-995a-fe0ebae2f4fa.png)
+![Screenshot_1622601856](https://user-images.githubusercontent.com/77355204/120418681-a4468700-c369-11eb-8541-07a4a9808859.png)
+![Screenshot_1622601871](https://user-images.githubusercontent.com/77355204/120418682-a4df1d80-c369-11eb-8809-cbc7e57394f6.png)
+![Screenshot_1622602020](https://user-images.githubusercontent.com/77355204/120418683-a577b400-c369-11eb-9ac6-191cee7afd7b.png)
